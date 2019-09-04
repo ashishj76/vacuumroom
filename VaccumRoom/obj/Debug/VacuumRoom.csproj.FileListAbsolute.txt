@@ -1,0 +1,7 @@
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\bin\Debug\VaccumRoom.exe.config
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\bin\Debug\VaccumRoom.exe
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\bin\Debug\VaccumRoom.pdb
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\obj\Debug\VacuumRoom.csprojAssemblyReference.cache
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\obj\Debug\VacuumRoom.csproj.CoreCompileInputs.cache
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\obj\Debug\VaccumRoom.exe
+C:\Users\ajain\OneDrive\Documents\Visual Studio 2017\Projects\VaccumRoom\VaccumRoom\obj\Debug\VaccumRoom.pdb

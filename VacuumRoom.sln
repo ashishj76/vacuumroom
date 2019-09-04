@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumRoom", "VaccumRoom\VacuumRoom.csproj", "{47CE7144-72CF-4533-82B6-D08D83D9B1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CE7144-72CF-4533-82B6-D08D83D9B1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CE7144-72CF-4533-82B6-D08D83D9B1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CE7144-72CF-4533-82B6-D08D83D9B1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CE7144-72CF-4533-82B6-D08D83D9B1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3368E6-E477-4673-8108-6E4A5EE332E6}
+	EndGlobalSection
+EndGlobal

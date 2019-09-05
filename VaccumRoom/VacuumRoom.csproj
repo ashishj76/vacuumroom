@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ILegacyVacuumRobot.cs" />
-    <Compile Include="IVaccumRobot.cs" />
+    <Compile Include="IVacuumRobot.cs" />
     <Compile Include="LegacyVacuumAdapter.cs" />
     <Compile Include="LegacyVacuumRobot.cs" />
     <Compile Include="Program.cs" />

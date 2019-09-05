@@ -1,4 +1,5 @@
 ﻿using System;
+using VacuumRoom;
 
 namespace VacuumRoom
 {
@@ -10,24 +11,24 @@ namespace VacuumRoom
         {
             _legacyVacuumRobot = legacyVacuumRobot;
         }
-        public void RotateRight()
+        public void RotateRight(int degrees)
         {
-            this._legacyVacuumRobot.RotateRight();
+            this._legacyVacuumRobot.RotateRight(degrees);
         }
 
-        public void RotateLeft()
+        public void RotateLeft(int degrees)
         {
-            Console.WriteLine("Vacuum Robot Rotate Left");
+            Console.WriteLine($"Vacuum Robot Rotate Left by {degrees} degrees.");
         }
 
-        public void MoveForward()
+        public void MoveForward(int units)
         {
-            this._legacyVacuumRobot.MoveForward();
+            this._legacyVacuumRobot.MoveForward(units);
         }
 
-        public void MoveBackward()
+        public void MoveBackward(int units)
         {
-            Console.WriteLine("Vacuum Robot Moving Forward");
+            Console.WriteLine($"Vacuum Robot Moving Forward by {units} units.");
         }
     }
 }

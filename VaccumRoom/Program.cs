@@ -1,6 +1,4 @@
-﻿using VacuumRoom;
-
-namespace VacuumRoom
+﻿namespace VacuumRoom
 {
     class Program
     {
@@ -13,10 +11,10 @@ namespace VacuumRoom
         {
             LegacyVacuumRobot legacyVacuumRobot = new LegacyVacuumRobot();
             IVacuumRobot vacuumRobot = new LegacyVacuumAdapter(legacyVacuumRobot);
-            vacuumRobot.MoveForward();
-            vacuumRobot.MoveBackward();
-            vacuumRobot.RotateRight();
-            vacuumRobot.RotateLeft();
+            vacuumRobot.MoveForward(10);
+            vacuumRobot.MoveBackward(5);
+            vacuumRobot.RotateRight(180);
+            vacuumRobot.RotateLeft(90);
         }
     }
 }

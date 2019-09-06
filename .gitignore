@@ -4,3 +4,6 @@
 
 /.vs/VacuumRoom/v15/Server/sqlite3
 /.vs/VacuumRoom/v15
+/VacuumRoom/bin
+/VacuumRoom/obj
+

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{47CE7144-72CF-4533-82B6-D08D83D9B1DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VaccumRoom</RootNamespace>
-    <AssemblyName>VaccumRoom</AssemblyName>
+    <RootNamespace>VacuumRoom</RootNamespace>
+    <AssemblyName>VacuumRoom</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,10 +46,10 @@
     <Compile Include="ILegacyVacuumRobot.cs" />
     <Compile Include="IVacuumRobot.cs" />
     <Compile Include="Adapter\LegacyVacuumAdapter.cs" />
-    <Compile Include="Implementatoin\LegacyVacuumRobot.cs" />
+    <Compile Include="Implementation\LegacyVacuumRobot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Implementatoin\VacuumRobot.cs" />
+    <Compile Include="Implementation\VacuumRobot.cs" />
     <Compile Include="VacuumRoom.cs" />
   </ItemGroup>
   <ItemGroup>

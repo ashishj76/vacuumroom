@@ -1,7 +1,6 @@
 ﻿using System;
-using VacuumRoom;
 
-namespace VacuumRoom
+namespace VacuumRoom.Implementation
 {
     public class LegacyVacuumRobot : ILegacyVacuumRobot
     {

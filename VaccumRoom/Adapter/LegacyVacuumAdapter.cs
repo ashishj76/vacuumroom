@@ -1,7 +1,6 @@
-﻿using System;
-using VacuumRoom;
+﻿using VacuumRoom.Implementation;
 
-namespace VacuumRoom
+namespace VacuumRoom.Adapter
 {
     public class LegacyVacuumAdapter : IVacuumRobot
     {

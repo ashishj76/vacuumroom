@@ -45,14 +45,16 @@
   <ItemGroup>
     <Compile Include="ILegacyVacuumRobot.cs" />
     <Compile Include="IVacuumRobot.cs" />
-    <Compile Include="LegacyVacuumAdapter.cs" />
-    <Compile Include="LegacyVacuumRobot.cs" />
+    <Compile Include="Adapter\LegacyVacuumAdapter.cs" />
+    <Compile Include="Implementatoin\LegacyVacuumRobot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VacuumRobot.cs" />
+    <Compile Include="Implementatoin\VacuumRobot.cs" />
+    <Compile Include="VacuumRoom.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
